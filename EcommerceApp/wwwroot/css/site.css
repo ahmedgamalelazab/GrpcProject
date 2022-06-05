@@ -1,0 +1,215 @@
+/**
+* @description : the whole website dependencies 
+*/
+* {
+  padding: 0xp;
+  margin: 0xp;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.btn-Primary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #232C33;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Primary:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Primary:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.btn-Secondary {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #2B50AA;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Secondary:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Secondary:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.btn-Btn-Buy {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #45CB85;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Btn-Buy:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Btn-Buy:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.btn-Notification-warn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #FE9920;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Notification-warn:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Notification-warn:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.btn-Notification-error {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #BB0A21;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Notification-error:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Notification-error:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.btn-Notification-success {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #5CF64A;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Notification-success:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Notification-success:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+.btn-Primary-Text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 100px;
+  max-height: 40px;
+  background-color: #fff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-Primary-Text:hover {
+  background-color: #2B50AA;
+}
+
+.btn-Primary-Text:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+
+body {
+  background-color: #232C33 !important;
+  color: #fff !important;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=site.css.map */

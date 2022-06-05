@@ -1,0 +1,78 @@
+/**
+* @description : the whole website dependencies 
+*/
+
+
+//variables 
+
+$app-colors: (
+    "Primary" : #232C33,
+    "Secondary" : #2B50AA,
+    "Btn-Buy" : #45CB85,
+    "Notification-warn" : #FE9920,
+    "Notification-error" : #BB0A21,
+    "Notification-success" : #5CF64A,
+    "Primary-Text" : #fff,
+);
+
+$primary-color : map-get($app-colors , "Primary" );
+$Secondary-color : map-get($app-colors , "Secondary" );
+$btn-buy : map-get($app-colors , "Btn-Buy" );
+$Notification-warn : map-get($app-colors , "Notification-warn" );
+$Notification-error : map-get($app-colors , "Notification-error" );
+$Notification-success : map-get($app-colors , "Notification-success" );
+$Primary-Text : map-get($app-colors , "Primary-Text" );
+
+
+*{
+    padding : 0xp;
+    margin  : 0xp;
+    box-sizing: border-box;
+}
+
+
+//generate main buttons 
+
+@mixin btn-creator($background-color:black , $color:white) {
+     
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100px;
+    max-height: 40px;
+    background-color: $background-color;        
+    color:$color;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    &:hover{
+        background-color: $Secondary-color;
+    }
+
+    &:active{
+        transform: scale(0.90);
+    }
+
+}
+
+@each $key , $val in $app-colors {
+
+    @if($key == "Notification-success"){
+        .btn-#{$key}{
+            @include btn-creator($val, black);
+        }
+    }@else{
+        .btn-#{$key}{
+            @include btn-creator($val, white);
+        }
+    }
+}
+
+body{
+    background-color: $primary-color !important;
+    color:$Primary-Text !important;
+}
+
+a{
+    text-decoration: none;
+}
