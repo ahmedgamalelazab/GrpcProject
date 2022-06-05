@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28f180bc-42f6-4216-8a2c-7a09fed4b298": {
+      "ProjectGuid": "28f180bc-42f6-4216-8a2c-7a09fed4b298",
+      "DisplayName": "EcommerceApp",
+      "ColorIndex": 0
+    },
+    "e1c4ac4f-744f-4ad4-91ac-29693109e4b7": {
+      "ProjectGuid": "e1c4ac4f-744f-4ad4-91ac-29693109e4b7",
+      "DisplayName": "InventoryService",
+      "ColorIndex": 1
+    },
+    "622ae95a-0e38-4e95-a5f8-9652d81ee8bc": {
+      "ProjectGuid": "622ae95a-0e38-4e95-a5f8-9652d81ee8bc",
+      "DisplayName": "PaymentService",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

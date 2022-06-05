@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\EcommerceApp\\EcommerceApp.csproj": {}
+    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\EcommerceApp\\EcommerceApp.csproj": {}
   },
   "projects": {
-    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\EcommerceApp\\EcommerceApp.csproj": {
+    "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\EcommerceApp\\EcommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\EcommerceApp\\EcommerceApp.csproj",
+        "projectUniqueName": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\EcommerceApp\\EcommerceApp.csproj",
         "projectName": "EcommerceApp",
-        "projectPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\EcommerceApp\\EcommerceApp.csproj",
+        "projectPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\EcommerceApp\\EcommerceApp.csproj",
         "packagesPath": "C:\\Users\\gemy\\.nuget\\packages\\",
-        "outputPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\EcommerceApp\\obj\\",
+        "outputPath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\EcommerceApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

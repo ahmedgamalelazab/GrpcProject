@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "loLCgVQxRGPwBxMj5zIZ/l0GWhuBm1cKx9VTa01hwfwR59f9SVSI5hsbfhhWGRCvZJnz+7l8QS1gZGb7rq7KBg==",
+  "dgSpecHash": "r0v5rOKmE+m/LcoarKqAcbvGoH6NsTNBrAKn/sfFltyEAxsQz1Mcnk1LqQdRmKFiolCQr6h1+G2xUOoFLqYuXg==",
   "success": true,
-  "projectFilePath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpc\\EcommerceApp\\EcommerceApp.csproj",
+  "projectFilePath": "D:\\iti Mansoura 42\\iti_labs_after_format\\c# labs\\grpcExcellent\\EcommerceApp\\EcommerceApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gemy\\.nuget\\packages\\google.protobuf\\3.21.1\\google.protobuf.3.21.1.nupkg.sha512",
     "C:\\Users\\gemy\\.nuget\\packages\\grpc.core.api\\2.46.1\\grpc.core.api.2.46.1.nupkg.sha512",
